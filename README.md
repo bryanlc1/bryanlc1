@@ -28,7 +28,7 @@
     </a>
   
   <a href="https://git-scm.com/">
-        <img src="https://git-scm.com/images/logo@2x.png" style="width:40px;height:40px;" alt="git">
+        <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" style="width:40px;height:40px;" alt="git">
     </a>
   
   
