@@ -24,7 +24,11 @@
     </a>
   
    <a href="https://www.w3schools.com/html/">
-        <img src="https://tadviser.com/images/7/76/HTML5.jpg" style="width:40px;height:40px;" alt="css">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="width:40px;height:40px;" alt="html">
+    </a>
+  
+  <a href="https://git-scm.com/">
+        <img src="https://git-scm.com/images/logo@2x.png" style="width:40px;height:40px;" alt="git">
     </a>
   
   
