@@ -15,7 +15,7 @@
   </a>
   
   <h3>Lenguages and tools</h3>
-  <div>
+
       <a href="https://www.javascript.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"                                 style="width:40px;height:40px;" alt="Javascript">
       </a>
@@ -31,7 +31,7 @@
     <a href="https://git-scm.com/">
           <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" style="width:40px;height:40px;" alt="git">
       </a>
-  </div>
+
 
 <!--
 **bryanlc1/bryanlc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
