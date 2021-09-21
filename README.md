@@ -31,10 +31,13 @@
   <a href="https://git-scm.com/">
           <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" style="width:40px;height:40px;" alt="git">
       </a>
-  <a href="https://jestjs.io/">
-          <img src="https://nx.dev/documentation/latest/shared/jest-logo.png" style="width:40px;height:40px;" alt="git">
-      </a>
     
+  <a href="https://jestjs.io/">
+          <img src="https://nx.dev/documentation/latest/shared/jest-logo.png" style="width:40px;height:40px;" alt="jest">
+      </a>
+  <a href="https://nodejs.org/en/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="width:40px;height:40px;" alt="node">
+      </a> 
   
 
   </div>
