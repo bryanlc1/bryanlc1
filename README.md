@@ -1,6 +1,6 @@
 <h1 style="text-align:center">Hi 👋 I'm Bryan Lojan</h3> 
 
-<h2 style="text-align:center">A passionate frontend developer</h2>
+<h2 style="text-align:center;">A passionate frontend developer</h2>
 
 - 🌱 I’m currently learning React Native, Next.js and Nuxt.js
 - 💬 Ask me about JavaScript , React , Vue
