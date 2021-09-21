@@ -4,6 +4,8 @@ A passionate frontend developer
 
 - 🌱 I’m currently learning React Native, Next.js and Nuxt.js
 - 💬 Ask me about JavaScript , React , Vue
+
+<br>Conect with me<br>
 <!--
 **bryanlc1/bryanlc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
