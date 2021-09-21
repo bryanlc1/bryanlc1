@@ -6,11 +6,11 @@
 - 💬 Ask me about JavaScript , React , Vue
 
 <h3>Conect with me<h3>
-  <a src="linkedin.com/in/bryan-lojan ">
+  <a href="linkedin.com/in/bryan-lojan ">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" style="width:50px;height:50px;">
   </a>
   
-   <a src="https://www.instagram.com/bryanlc1/">
+   <a href="https://www.instagram.com/bryanlc1/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" style="width:50px;height:50px;">
   </a>
 <!--
