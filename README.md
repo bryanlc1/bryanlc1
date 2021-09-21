@@ -23,6 +23,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="width:40px;height:40px;" alt="css">
     </a>
   
+   <a href="https://www.w3schools.com/html/">
+        <img src="https://tadviser.com/images/7/76/HTML5.jpg" style="width:40px;height:40px;" alt="css">
+    </a>
+  
   
 
 <!--
