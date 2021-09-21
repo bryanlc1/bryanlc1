@@ -1,11 +1,11 @@
-### Hi 👋 I'm Bryan Lojan 
+<h1>Hi 👋 I'm Bryan Lojan</h3> 
 
 A passionate frontend developer
 
 - 🌱 I’m currently learning React Native, Next.js and Nuxt.js
 - 💬 Ask me about JavaScript , React , Vue
 
-<h2>Conect with me<h2>
+<h3>Conect with me<h3>
 <!--
 **bryanlc1/bryanlc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
