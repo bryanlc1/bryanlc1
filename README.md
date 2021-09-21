@@ -1,4 +1,4 @@
-<p style="text-align:center">Hi 👋 I'm Bryan Lojan</p> 
+<h1 style="text-align:center">Hi 👋 I'm Bryan Lojan</h1> 
 
 <h2 style="text-align:center;">A passionate frontend developer</h2>
 
