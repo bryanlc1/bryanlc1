@@ -20,17 +20,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"                                 style="width:40px;height:40px;" alt="Javascript">
       </a>
 
-    <a href="https://www.w3schools.com/css/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="width:40px;height:40px;" alt="css">
-      </a>
-
-     <a href="https://www.w3schools.com/html/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="width:40px;height:40px;"           alt="html">
-      </a>
-
-    <a href="https://git-scm.com/">
-          <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" style="width:40px;height:40px;" alt="git">
-      </a>
 
 
 <!--
