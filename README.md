@@ -31,6 +31,11 @@
   <a href="https://git-scm.com/">
           <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" style="width:40px;height:40px;" alt="git">
       </a>
+  <a href="https://jestjs.io/">
+          <img src="https://nx.dev/documentation/latest/shared/jest-logo.png" style="width:40px;height:40px;" alt="git">
+      </a>
+    
+  
 
   </div>
 
