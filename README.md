@@ -7,11 +7,11 @@
 
 <h3>Conect with me<h3>
   <a href="https://www.linkedin.com/in/bryan-lojan/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" style="width:40px;height:40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" style="width:40px;height:40px;" alt="Bryan's Linkedin">
   </a>
   
    <a href="https://www.instagram.com/bryanlc1/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" style="width:40px;height:40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" style="width:40px;height:40px;" alt="Bryan's Instagram">
   </a>
 <!--
 **bryanlc1/bryanlc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
