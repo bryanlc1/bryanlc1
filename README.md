@@ -6,6 +6,7 @@
 - 💬 Ask me about JavaScript , React , Vue
 
 <h3>Conect with me<h3>
+  <div>
   <a href="https://www.linkedin.com/in/bryan-lojan/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" style="width:40px;height:40px;" alt="Bryan's Linkedin">
   </a>
@@ -31,7 +32,7 @@
           <img src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png" style="width:40px;height:40px;" alt="git">
       </a>
 
-
+  </div>
 
 <!--
 **bryanlc1/bryanlc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
